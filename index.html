@@ -1,0 +1,34 @@
+
+
+
+
+
+<script type="text/javascript">
+
+var type=navigator.appName
+if (type=="Netscape"){
+var lang = navigator.language
+}
+else{
+var lang = navigator.userLanguage
+}
+
+
+//取得浏览器语言的前两个字母
+var lang = lang.substr(0,2)
+// 英语
+if (lang == "zh"){
+window.location.href="index_cn.html"
+}
+// 中文 - 不分繁体和简体
+else if (lang == "en"){
+  window.location.href="index_en.html"
+//  注释掉了上面跳转,不然会陷入无限循环
+}
+// 除上面所列的语言
+else{
+window.location.href="index_en.html"
+}
+
+
+</script>
