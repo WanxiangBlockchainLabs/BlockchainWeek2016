@@ -1407,10 +1407,7 @@ SANDRA RO，CME集团数字化方面主管兼执行董事，主要负责公司�
             
             
             <tr valign=top>
-          <td><img src="images/portfolio/ibm.gif">            
-	<td><img src="images/portfolio/thumb27.gif">
-
-	</td>
+            <td><img src="images/portfolio/thumb27.gif"></td>
            
             </tr>
 		</table>
@@ -1517,13 +1514,8 @@ SANDRA RO，CME集团数字化方面主管兼执行董事，主要负责公司�
 				</article>
                  <article class="media"><a href="http://www.fintechnews.sg">
 				<img src="images/portfolio/thumb26.gif" alt="image"/></a></article>
-        
-
-         	<article class="sponsor"><a href="http://www.ibm.com"> 
-				<img src="images/portfolio/ibm.gif" alt="image"/></a></article>
-	         <article class="sponsor"><a href="http://www.cmegroup.com"> 
+                 <article class="sponsor"><a href="http://www.cmegroup.com."> 
 				<img src="images/portfolio/thumb27.gif" alt="image"/></a></article>
-
                  <article class="institutions">
                 <img src="images/portfolio/ju.gif" alt="image"/>
 				</article>
